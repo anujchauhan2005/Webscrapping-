@@ -22,3 +22,7 @@ This project is a **web scraping application** that extracts laptop prices from 
 ---
 
 ## 📂 Project Structure
+📁 amazon-laptop-scraper
+│── scraper.py # Main scraping script
+│── laptops.csv # Output file
+│── README.md # Project documentation
